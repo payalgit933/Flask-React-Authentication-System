@@ -11,7 +11,7 @@ This is a beginner-friendly fullstack authentication app built using **React** (
 - ⚛️ Modular React components: `Login`, `Register`, `Dashboard`
 - 🔄 Frontend-backend communication via REST API
 ## Link
-    [![Link][https://flask-react-authentication-system.vercel.app]]
+ [View](https://flask-react-authentication-system.vercel.app)
 ## 🛠️ Tech Stack
 
 **Frontend:**

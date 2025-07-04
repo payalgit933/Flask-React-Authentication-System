@@ -1,7 +1,7 @@
 // src/components/Login.jsx
 import { useState } from 'react';
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://ca31f217-957d-4560-969f-a74754e9db92-00-8upq9jmpbpnv.sisko.replit.dev";
 
 export default function Login({ switchToRegister, onLoginSuccess }) {
   const [username, setUsername] = useState("");
